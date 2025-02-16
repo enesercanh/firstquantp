@@ -21,7 +21,7 @@ pip install pandas numpy yfinance matplotlib
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/enesercanh/firstquantp.git
-   cd backtester.py
+   cd firstquantp
    ```
 
 2. **Run the script**:
